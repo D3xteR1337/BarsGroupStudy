@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "llZLylthcCNxCQ+DjZm/rfM83IydeomjlgAwVOeWg9KUtrPYRZG11YZcutM0F8J+7Rg1IUxkOpo7+4LcutQ0fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Роберт\\source\\repos\\QSLib\\QSLib.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Роберт\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

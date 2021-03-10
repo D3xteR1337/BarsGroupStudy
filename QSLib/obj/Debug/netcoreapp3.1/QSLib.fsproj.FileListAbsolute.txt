@@ -1,0 +1,8 @@
+C:\Users\Роберт\source\repos\QSLib\bin\Debug\netcoreapp3.1\QSLib.deps.json
+C:\Users\Роберт\source\repos\QSLib\bin\Debug\netcoreapp3.1\QSLib.dll
+C:\Users\Роберт\source\repos\QSLib\bin\Debug\netcoreapp3.1\QSLib.pdb
+C:\Users\Роберт\source\repos\QSLib\obj\Debug\netcoreapp3.1\QSLib.fsprojAssemblyReference.cache
+C:\Users\Роберт\source\repos\QSLib\obj\Debug\netcoreapp3.1\QSLib.AssemblyInfoInputs.cache
+C:\Users\Роберт\source\repos\QSLib\obj\Debug\netcoreapp3.1\QSLib.AssemblyInfo.fs
+C:\Users\Роберт\source\repos\QSLib\obj\Debug\netcoreapp3.1\QSLib.dll
+C:\Users\Роберт\source\repos\QSLib\obj\Debug\netcoreapp3.1\QSLib.pdb

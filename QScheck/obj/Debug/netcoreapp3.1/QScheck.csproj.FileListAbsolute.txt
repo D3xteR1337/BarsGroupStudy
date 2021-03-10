@@ -1,0 +1,16 @@
+C:\Users\Роберт\source\repos\QScheck\bin\Debug\netcoreapp3.1\QScheck.exe
+C:\Users\Роберт\source\repos\QScheck\bin\Debug\netcoreapp3.1\QScheck.deps.json
+C:\Users\Роберт\source\repos\QScheck\bin\Debug\netcoreapp3.1\QScheck.runtimeconfig.json
+C:\Users\Роберт\source\repos\QScheck\bin\Debug\netcoreapp3.1\QScheck.runtimeconfig.dev.json
+C:\Users\Роберт\source\repos\QScheck\bin\Debug\netcoreapp3.1\QScheck.dll
+C:\Users\Роберт\source\repos\QScheck\bin\Debug\netcoreapp3.1\QScheck.pdb
+C:\Users\Роберт\source\repos\QScheck\bin\Debug\netcoreapp3.1\QSLib.dll
+C:\Users\Роберт\source\repos\QScheck\bin\Debug\netcoreapp3.1\QSLib.pdb
+C:\Users\Роберт\source\repos\QScheck\obj\Debug\netcoreapp3.1\QScheck.csprojAssemblyReference.cache
+C:\Users\Роберт\source\repos\QScheck\obj\Debug\netcoreapp3.1\QScheck.AssemblyInfoInputs.cache
+C:\Users\Роберт\source\repos\QScheck\obj\Debug\netcoreapp3.1\QScheck.AssemblyInfo.cs
+C:\Users\Роберт\source\repos\QScheck\obj\Debug\netcoreapp3.1\QScheck.csproj.CoreCompileInputs.cache
+C:\Users\Роберт\source\repos\QScheck\obj\Debug\netcoreapp3.1\QScheck.csproj.CopyComplete
+C:\Users\Роберт\source\repos\QScheck\obj\Debug\netcoreapp3.1\QScheck.dll
+C:\Users\Роберт\source\repos\QScheck\obj\Debug\netcoreapp3.1\QScheck.pdb
+C:\Users\Роберт\source\repos\QScheck\obj\Debug\netcoreapp3.1\QScheck.genruntimeconfig.cache
