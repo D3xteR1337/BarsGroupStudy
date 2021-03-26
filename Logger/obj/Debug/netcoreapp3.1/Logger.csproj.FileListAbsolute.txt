@@ -1,0 +1,13 @@
+C:\Users\Роберт\source\repos\Logger\bin\Debug\netcoreapp3.1\Logger.exe
+C:\Users\Роберт\source\repos\Logger\bin\Debug\netcoreapp3.1\Logger.deps.json
+C:\Users\Роберт\source\repos\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.json
+C:\Users\Роберт\source\repos\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.dev.json
+C:\Users\Роберт\source\repos\Logger\bin\Debug\netcoreapp3.1\Logger.dll
+C:\Users\Роберт\source\repos\Logger\bin\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\Роберт\source\repos\Logger\obj\Debug\netcoreapp3.1\Logger.csprojAssemblyReference.cache
+C:\Users\Роберт\source\repos\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfoInputs.cache
+C:\Users\Роберт\source\repos\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfo.cs
+C:\Users\Роберт\source\repos\Logger\obj\Debug\netcoreapp3.1\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Роберт\source\repos\Logger\obj\Debug\netcoreapp3.1\Logger.dll
+C:\Users\Роберт\source\repos\Logger\obj\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\Роберт\source\repos\Logger\obj\Debug\netcoreapp3.1\Logger.genruntimeconfig.cache
